@@ -14,7 +14,7 @@ Next you need to create a license key for your app. You can do this by following
 
 1. [Create a Vuforia Account](https://developer.vuforia.com/vui/auth/register)
 2. [Create a free development license key](https://developer.vuforia.com/library/vuforia-engine/getting-started/engine-developer-portal/vuforia-license-manager/)
-3. Add your license to your project by going to Help>Vuforia Engine>Show Developer Agreement and then Window> Vuforia Configuration. Add your license key to 'App Licence Key'
+Add your license to your project by going to Help>Vuforia Engine>Show Developer Agreement and then Window> Vuforia Configuration. Add your license key to 'App Licence Key'
 
 Once you’ve done this, you should have an AR-enabled project. You can check if it worked by looking in the ```Game Object``` menu. If there is a new option in the list called ```Vuforia Engine``` then it’s worked.
 
