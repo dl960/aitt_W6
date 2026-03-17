@@ -71,6 +71,8 @@ In this task you should create a simple experience where a basic Unity primitive
 
 Your tablet computers are capable of detecting a ground plane. Therefore, you don't need to follow the instructions in the ```Ground Plane Emulator``` section of the guide.
 
+To make this run smoothly you may need to install the Google Player Services for AR tools from the Play Store https://play.google.com/store/apps/details?id=com.google.ar.core&pcampaignid=web_share
+
 ## Task 5: Interacting with AR Content (Paper in Bin!)
 
 To complete the final task, we’re going to create your first AR game. The game should be a homage to the classic paper bin AR game.
