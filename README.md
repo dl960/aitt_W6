@@ -1,4 +1,4 @@
-# Week 6 Practical: Prototyping Augmented Reality with Vuforia and Unity
+<img width="468" height="44" alt="image" src="https://github.com/user-attachments/assets/3335328a-96d2-4cb2-a24e-0684b32d0de9" /># Week 6 Practical: Prototyping Augmented Reality with Vuforia and Unity
 
 In this week's lecture we saw a range of different approaches for creating augmented reality experiences, which overlay digital content onto the physical world. In this practical, we're going to use a tool called Vuforia within Unity to make some experiences using some of those approaches.
 
@@ -14,7 +14,7 @@ Next you need to create a license key for your app. You can do this by following
 
 1. [Create a Vuforia Account](https://developer.vuforia.com/vui/auth/register)
 2. [Create a free development license key](https://developer.vuforia.com/library/vuforia-engine/getting-started/engine-developer-portal/vuforia-license-manager/)
-3. [Add your license key to your app](https://docs.unity3d.com/2018.2/Documentation/Manual/vuforia_get_started_project_setup.html)
+3. Add your license to your project by going to Help>Vuforia Engine>Show Developer Agreement and then Window> Vuforia Configuration. Add your license key to 'App Licence Key'
 
 Once you’ve done this, you should have an AR-enabled project. You can check if it worked by looking in the ```Game Object``` menu. If there is a new option in the list called ```Vuforia Engine``` then it’s worked.
 
